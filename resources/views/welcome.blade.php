@@ -7,7 +7,8 @@
         <title>PWL 2026</title>
     </head>
     <body>
-        <h2>Pemrograman web lanjut 2026</h2>
+        <h1>Hello, {{ $name }}</h1>
+    	<h1>You are {{ $occupation }}</h1>
         <h2>Semangat belajar laravel 12</h2>
     </body>
 </html>
